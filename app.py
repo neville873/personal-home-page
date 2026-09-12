@@ -17,7 +17,7 @@ TEXT = {
         "nav_skills": "Keahlian",
         "nav_contact": "Kontak",
         "talk": "Mari terhubung",
-        "hero_eyebrow": "BERANDA PRIBADI · JAKARTA",
+        "hero_eyebrow": "PERSONAL HOMEPAGE · JAKARTA",
         "hero_intro": "Lulusan Teknik Informatika dengan pengalaman pengembangan aplikasi berbasis web, integrasi sistem, REST API, dan pengolahan data.",
         "explore": "Lihat proyek",
         "scroll": "Gulir untuk menjelajah",
